@@ -1,0 +1,11 @@
+Question,Option1,Option2,Option3,Option4,CorrectAnswer,Subject
+"According to the worldwide app category revenue distribution in the Apple App Store in February 2014, which business model best describes social networking and news apps?",Free apps without in-app purchases,Free apps with in-app purchases,Paid apps without in-app purchases,Paid apps with in-app purchases,Free apps with in-app purchases,Computer Science
+"How much time is required to download ""Pokemon Go"" which is 77M in size using 4G LTE network? The maximum downloading rate of 4G LTE network is 299.6 Mbps.",0.26 sec,2.06 sec,2.57 sec,25.7 sec,2.06 sec,Computer Science
+Which of the following statements about graphics format is/are incorrect?,i) and iv) only,ii) and iv) only,"i), ii) and iii)",None of the above,i) and iv) only,Computer Science
+Which of the following about Android is/are correct?,iii) only,iv) only,i) and iii) only,ii) and iv) only,i) and iii) only,Computer Science
+Which of the following Integrated Development Environments (IDEs) CAN be used to develop Android applications?,i) and ii) only,i) and iv) only,ii) and iv) only,All of the above,All of the above,Computer Science
+Which of the following declares an optional String variable in Swift?,vars : String,let s: String!,vars: String?,lets: String?,vars: String?,Computer Science
+"When programming iOS apps, which of the following would be the best event for detecting the press of a button?",TouchUp,TouchDown,TouchUpOutside,TouchUplnside,TouchUplnside,Computer Science
+Which of the following layer provides location services in iOS?,Cocoa Touch,Media,Core Services,Core OS,Core Services,Computer Science
+"In iOS, which of the following functions is comparable to the onCreate() method in Android?",viewDidLoad(),viewDidCreate(),viewOnLoad(),viewOnCreate(),viewDidLoad(),Computer Science
+Which of the following correctly represents the profit sharing model of iOS App Store as of today?,90% for developer and 10% for Apple,80% for developer and 20% for Apple,70% for developer and 30% for Apple,60% for developer and 40% for Apple,70% for developer and 30% for Apple,Computer Science
